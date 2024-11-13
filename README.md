@@ -1,5 +1,9 @@
 # Manufacture Inventory Management System
-
+This project is a web-based Spareparts Procurement Management System designed for PT. MySpareParts (dummy company), a vehicle spare parts supplier. The system streamlines the procurement process across three user roles:
+1. Supervisor: Manages and approves spare parts requests.
+2. Factory: Submits and tracks requests for necessary parts.
+3. Distributor: Fulfills approved requests and manages inventory.
+Each user role has a unique dashboard with specific functionality, ensuring efficient and role-specific access to the procurement workflow.
 ## How to Setup:
 1. Initial Environment Development
 ```
